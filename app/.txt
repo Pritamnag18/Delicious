@@ -1,0 +1,22 @@
+// BUG 
+// FIXME 
+// TODO
+// NOTE
+// COMMENT
+
+[+] Full Backend Logic in "app.txt" folder.
+[+] App is made with MVC(Model View Controllers) pattern. 
+[+] Http folder is related to request such as Controllers, Middlewares.
+[+] Through model we can interact with Backend Data base.
+[+] Authenticatin system in Config folder.
+[+] In Resources folder we will put the views we see in the browser,Sass file, js file wich are uncompiled.
+[.] Inside Resources/views folder all html file will be present. Such as card page, order list, dashboard.
+[.] Routes folder is for url handling.
+[.] Express layout package helps to handle same nav  in multiple pages. we will keep all the same components that is going to repeat in all the pages. Ex- Navbar, Footer,etc.
+[***] COMMON MISTAKES DONE IN MOST OF THE PROJECTS IN server.js file keep all the Routes after the Set Template engine otherwise css and other functionality will not work. 
+[*] Factory Functions - It can be used by different languages.It is a object creational pattern.It is a simple function that returns object. For example- in Js we can use Closers. 
+[*] CRED Controllers - Creat, Read, Edit, Delete.
+[*] Moment library is used to give style to date tyme properly.
+
+
+
